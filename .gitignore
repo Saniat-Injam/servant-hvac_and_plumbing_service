@@ -46,6 +46,7 @@ app.*.map.json
 
 
 .env
+resume.md
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
 lib/core/services/stripe_keys.dart
